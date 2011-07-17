@@ -1,2 +1,33 @@
-TEST
-ТЕСТ
+This is the Readme file for MKBoard project, based on Metaboard project
+(http://metalab.at/wiki/Metaboard) with small improvements.
+
+MKBoard is an Arduino-compatible development board without standalone
+USB controller. Also, modified USBasploader used to provide sketch uploading.
+
+The main changes from original Metaboard are:
+
+- standard LED 'L' on digital13 added; 
+- added ICSP header for better shield compatibility;
+- 0,5A fuse added in a USB power line;
+- additional holes with 2,54 mm grid for digital pins;
+- double sided board.
+
+============== RUSSIAN ============
+
+Это файл README для проекта MKBoard, созданного на основе проекта Metaboard
+(http://metalab.at/wiki/Metaboard) с небольшими улучшениями.
+
+MKBoard - это Arduino-совместимая плата без отдельного USB-контроллера.
+Функции загрузки скетчей выполняет модифицированный USBasploader.
+
+Основные отличия от оригинальной Metaboard:
+
+- стандартный светодиод 'L' на digital13;
+- вилка ICSP для лучшей совместимости с шилд-платами;
+- предохранитель 0,5A в цепи питания USB;
+- дополнительный ряд отверстий цифровых пинов на сетке 2,54 мм;
+- двухсторонняя печатная плата.
+
+
+
+
