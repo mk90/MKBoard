@@ -48,8 +48,8 @@ metaboard328.upload.maximum_size=30720
 metaboard328.upload.speed=19200
 
 metaboard328.bootloader.extended_fuses=0x03
-metaboard328.bootloader.low_fuses=0xda
-metaboard328.bootloader.high_fuses=0xf7
+metaboard328.bootloader.low_fuses=0xf7
+metaboard328.bootloader.high_fuses=0xda
 metaboard328.bootloader.path=mkboard
 metaboard328.bootloader.file=mega328_16mhz.hex
 metaboard328.bootloader.unlock_bits=0x3F
